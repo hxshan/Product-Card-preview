@@ -99,7 +99,7 @@
 
 @media screen and (min-width:1280px) {
    .product-container{
-    display: flex;
+    display: flex; 
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -117,9 +117,6 @@
    }
    
   .product-type{
-    font-size: .875rem;
-    font-weight: 500;
-    letter-spacing:.3em;
     color:hsl(228, 12%, 48%);
     padding:0rem 0rem .7rem 0rem;
 
